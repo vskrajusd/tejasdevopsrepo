@@ -2,9 +2,9 @@
 <html>
 <title>Protal: Tejasl</title>
 <body>
-
+<marquee direction=up>
 <h1>Exclusive for Tejas</h1>
 <p>This is a private page for Tejas !</p>
-
+</marquee>
 </body>
 </html>
